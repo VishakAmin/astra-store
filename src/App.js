@@ -1,7 +1,5 @@
 import "./App.css";
-import Footer from "./components/footer/Footer";
-import LandingPage from "./components/landing_page/LandingPage";
-import Navbar from "./components/navbar/Navbar";
+import {Navbar, Footer, LandingPage} from './frontend/components/index'
 
 function App() {
   return (

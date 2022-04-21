@@ -1,0 +1,15 @@
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--shade-4);
+  height: 4rem;
+  color: var(--white);
+  padding: 2rem;
+}
+
+.navItem {
+  display: flex;
+  gap: 20px;
+}
